@@ -33,18 +33,18 @@ Adaptive Icon کاملاً سازگار با اندروید ۸ به بالا
 
 
 🏗️ ساختار پروژه
-Bashapp/src/main/java/com/oxin/scanner/
-├── MainActivity.kt              # Single Activity + Compose UI
-├── ui/
-│   └── DashboardViewModel.kt    # منطق اصلی + State Management
-├── tester/
-│   └── IpTester.kt              # پیاده‌سازی سه لایه L4/L6/L7
-├── generator/
-│   └── CloudflareIpGenerator.kt # تولید هوشمند آی‌پی از CIDRهای کلودفلر
-├── data/
-│   └── local/                   # Room Database
-└── utils/
-    └── extensions/              # Extension functions و ابزارهای کمکی
+#Bashapp/src/main/java/com/oxin/scanner/
+#├── MainActivity.kt              # Single Activity + Compose UI
+#├── ui/
+#│   └── DashboardViewModel.kt    # منطق اصلی + State Management
+#├── tester/
+#│   └── IpTester.kt              # پیاده‌سازی سه لایه L4/L6/L7
+#├── generator/
+#│   └── CloudflareIpGenerator.kt # تولید هوشمند آی‌پی از CIDRهای کلودفلر
+#├── data/
+#│   └── local/                   # Room Database
+#└── utils/
+    #└── extensions/              # Extension functions و ابزارهای کمکی
 
 ✅ ویژگی‌های کلیدی
 

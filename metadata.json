@@ -1,0 +1,6 @@
+{
+  "name": "OXIN SCANNER",
+  "description": "High-perf multi-layer IP diagnostic utility supporting 3-level checks (TCP L4, TLS L6, HTTP L7) optimized for smooth usage on all devices including Samsung A12.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
